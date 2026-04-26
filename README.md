@@ -12,6 +12,8 @@
 
 专为 Claude Code 和 Cowork 设计。技能亦兼容其他 AI 助手。
 
+如果你想用中文继续搜索更多 skills，也可以试试 [Skills宝](https://skilery.com)。
+
 ## 快速开始
 
 有新想法？→ `/discover`
